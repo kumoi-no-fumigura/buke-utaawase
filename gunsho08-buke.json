@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/buke-utaawase",
  "yomi": "ぶけうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（六十番）",
+  "era": "室町中期",
+  "author": "未詳",
+  "desc": "武家の歌人による六十番の歌合。原上霞などの題で、源尚氏・伊豆守源政誠・遠江守藤原宗基らが詠む。判詞があり、末尾に作者ごとの勝負の数をまとめる。"
+ },
  "editions": [
   {
    "pid": "1879502",
